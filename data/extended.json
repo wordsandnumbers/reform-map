@@ -6962,6 +6962,35 @@
       }
     ]
   },
+  "Astoria, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "Uses in the C-4 Zone (Central Commercial) and uses between 7th and 14th Streets in the A-2 (Aquatic Two Development) and S-2A Zones (Tourist Oriented Shoreland) are not required to provide off-street parking. This does not apply to Lots 1, 2, 3, Block 40, McClure’s Addition (south side of 600 Block Duane Street) in the C-4 zone.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14890,
+            "description": "Astoria Development Code",
+            "url": "https://astoria.municipalcodeonline.com/book?type=development#name=7.062_SPECIAL_EXCEPTIONS_TO_OFF-STREET_VEHICLE_PARKING_REQUIREMENTS",
+            "notes": "7.062.C.",
+            "attachments": [
+              {
+                "fileName": "astoria-oregon-united-states-attachment.pdf",
+                "directusId": "d5fd7d9c-9539-4289-8a8d-12718c627c98"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "astoria-oregon-united-states-screenshot.png",
+                "directusId": "3e4468b4-5535-41a5-ba77-7f18523045a7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Atchison, Kansas, United States": {
     "reduce_min": [
       {
@@ -7999,6 +8028,62 @@
       }
     ]
   },
+  "Aumsville, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 130% of the minimums for multi-family and nonresidential uses.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14871,
+            "description": "Aumsville Development Code",
+            "url": "https://www.aumsville.us/media/10686",
+            "notes": "18.08(H)\nPage 93",
+            "attachments": [
+              {
+                "fileName": "aumsville-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "c6a1fcfd-8c0a-4069-ba63-95d2417a2828"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "aumsville-oregon-united-states-add-max-screenshot.png",
+                "directusId": "c6cc2609-cb0b-4a67-8d94-342c599ba0ef"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14870,
+            "description": "Aumsville Development Code",
+            "url": "https://www.aumsville.us/media/10686",
+            "notes": "18.03(D)\nPages 88-89",
+            "attachments": [
+              {
+                "fileName": "aumsville-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "03fe4d0f-5498-4366-a568-8816ad956259"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "aumsville-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "a4358363-b7be-4e03-82f3-e6c8ecd1a7c9"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Aurelia, Iowa, United States": {
     "rm_min": [
       {
@@ -8791,6 +8876,89 @@
       }
     ]
   },
+  "Baker City, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "For parking areas exceeding 25 spaces, parking maximums are set at 125% of the minimums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "size of project"],
+        "citations": [
+          {
+            "id": 14900,
+            "description": "Baker City Development Code",
+            "url": "https://www.bakercity.com/DocumentCenter/View/2495/Chapter-33---Parking-and-Loading",
+            "notes": "Table 3.3.300.A\nPage 2",
+            "attachments": [
+              {
+                "fileName": "baker-city-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "ad00be91-9a08-4651-9cef-fc2c6b4dd27d"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "baker-city-oregon-united-states-add-max-screenshot.png",
+                "directusId": "1c55bb63-1ad9-40f9-ac9d-cd4db2f64449"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14901,
+            "description": "Baker City Development Code",
+            "url": "https://www.bakercity.com/DocumentCenter/View/2495/Chapter-33---Parking-and-Loading",
+            "notes": "3.3.300.E.\nPage 5",
+            "attachments": [
+              {
+                "fileName": "baker-city-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "b7eeee93-e9e5-4bf4-bcf1-d075f1b3de7f"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "baker-city-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "fc65af82-f970-4fa1-b311-ab9e7b7f7e6e"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "Commercial uses in the Central Commercial Zone (CC) are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14899,
+            "description": "Baker City Development Code",
+            "url": "https://www.bakercity.com/DocumentCenter/View/2495/Chapter-33---Parking-and-Loading",
+            "notes": "3.3.300.B.\nPage 2",
+            "attachments": [
+              {
+                "fileName": "baker-city-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "f833bd83-43b9-424c-ae7c-a69e673f2322"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "baker-city-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "eb055be2-0a4f-43e9-b679-3be78c5d3113"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Baker, Montana, United States": {
     "reduce_min": [
       {
@@ -9330,6 +9498,35 @@
               {
                 "fileName": "bandera-texas-united-states-remove-min-screenshot.png",
                 "directusId": "73ef1c3c-b18f-414e-8e59-bbbf3bbad655"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Bandon, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "Permitted uses in the C-1 Old Town Commercial Zone are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14845,
+            "description": "Bandon Zoning Code",
+            "url": "https://www.bandon-or.gov/media/33401",
+            "notes": "17.40.110",
+            "attachments": [
+              {
+                "fileName": "bandon-oregon-united-states-attachment.pdf",
+                "directusId": "feea06fd-d669-4970-b566-d3fe9532d554"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "bandon-oregon-united-states-screenshot.png",
+                "directusId": "883b5709-c66a-4125-8133-dde3f1b16eb7"
               }
             ]
           }
@@ -17264,6 +17461,62 @@
       }
     ]
   },
+  "Boardman, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Surface parking maximums are set at 110% of the minimums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14867,
+            "description": "Boardman Development Code",
+            "url": "https://www.cityofboardman.com/media/4816",
+            "notes": "3.3.300.C.\nPage 4",
+            "attachments": [
+              {
+                "fileName": "boardman-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "96bafaae-3d60-4f87-9b29-1a0883ba55fd"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "boardman-oregon-united-states-add-max-screenshot.png",
+                "directusId": "56a6fd80-6ff4-4432-9e60-7d5470980ec5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "There is no minimum number of off-street parking spaces required in the City Center Sub District or in designated historic districts.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "historic preservation"],
+        "citations": [
+          {
+            "id": 14866,
+            "description": "Boardman Development Code",
+            "url": "https://www.cityofboardman.com/media/4816",
+            "notes": "3.3.300\nPage 1",
+            "attachments": [
+              {
+                "fileName": "boardman-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "bb058f75-0ff7-4391-b0ad-775f7d2a8e28"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "boardman-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "875601b9-496f-4a73-bda4-d3921473c482"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Boaz, Alabama, United States": {
     "reduce_min": [
       {
@@ -22936,6 +23189,35 @@
       }
     ]
   },
+  "Burns, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "There are no parking mandates for uses within the Downtown Core Overlay zone.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14849,
+            "description": "Burns Zoning Code",
+            "url": "https://www.codepublishing.com/OR/Burns/#!/Burns18/Burns1850.html#18.50.410",
+            "notes": "18.50.410.2.A.",
+            "attachments": [
+              {
+                "fileName": "burns-oregon-united-states-attachment.pdf",
+                "directusId": "2d520695-cfc4-47cf-9155-1b5c409d9202"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "burns-oregon-united-states-screenshot.png",
+                "directusId": "8972b5b4-29e8-444b-9215-ec0866008a5c"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Burnsville, Minnesota, United States": {
     "add_max": [
       {
@@ -24703,6 +24985,35 @@
               {
                 "fileName": "canastota-new-york-united-states-screenshot.png",
                 "directusId": "ef64a9e4-40e8-44f6-a7da-bcb88e7f0ae7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Canby, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "No off-street parking is required for any use permitted outright within the C-1 Downtown Commercial zone in the area bounded by N. Ivy Street on the east, NW First Avenue on the south, N. Elm Street on the west, and NW Third Avenue on the north.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14885,
+            "description": "Canby Planning and Zoning Code",
+            "url": "https://codelibrary.amlegal.com/codes/canby/latest/canby_or/0-0-0-38233",
+            "notes": "16.10.010.B.",
+            "attachments": [
+              {
+                "fileName": "canby-oregon-united-states-attachment.pdf",
+                "directusId": "7bbf27a3-1fbc-439a-a7e6-fc6b1f03a3ee"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "canby-oregon-united-states-screenshot.png",
+                "directusId": "2458c0b7-76bb-4ef7-a012-38f6ab92c21f"
               }
             ]
           }
@@ -37748,6 +38059,62 @@
       }
     ]
   },
+  "Coquille, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14869,
+            "description": "Coquille Planning and Zoning Code",
+            "url": "https://library.municode.com/or/coquille/codes/code_of_ordinances?nodeId=TIT17PLZO_DIVIIICODEST_CH17.68PALO_17.68.030AUPAST",
+            "notes": "17.68.030.C.",
+            "attachments": [
+              {
+                "fileName": "coquille-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "ac2fbd3c-b918-442b-beea-c728063ecff1"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "coquille-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "b72c1f73-f175-48b2-aab4-cdd8416cfc7d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "There is no minimum number of off-street parking required in the C-1 (downtown) district; however, new development and changes in use in the downtown may be subject to a downtown parking district fee if adopted by city council.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "other"],
+        "citations": [
+          {
+            "id": 14868,
+            "description": "Coquille Planning and Zoning Code",
+            "url": "https://library.municode.com/or/coquille/codes/code_of_ordinances?nodeId=TIT17PLZO_DIVIIICODEST_CH17.68PALO_17.68.030AUPAST",
+            "notes": "17.68.030.A.",
+            "attachments": [
+              {
+                "fileName": "coquille-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "c54cb74d-0d48-429f-9f75-5e72276cfe82"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "coquille-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "d95ae7d2-52de-4e8f-a19c-6191031bd8a0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Coraopolis, Pennsylvania, United States": {
     "reduce_min": [
       {
@@ -42002,6 +42369,62 @@
               {
                 "fileName": "dayton-ohio-united-states-remove-min-screenshot2.jpg",
                 "directusId": "6825daf6-c8fc-4f52-b682-aa68970eb1fd"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Dayton, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 150% of the minimums, except for single family and two-family dwellings.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14850,
+            "description": "Dayton Land Use and Development Code",
+            "url": "https://dayton.municipalcodeonline.com/book?type=ordinances#name=7.2.303.06_Off-Street_Vehicle_Parking_Requirements",
+            "notes": "7.2.303.06.B.",
+            "attachments": [
+              {
+                "fileName": "dayton-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "3b71e383-d7f7-4b9e-93dd-cec7e8275da6"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "dayton-oregon-united-states-add-max-screenshot.png",
+                "directusId": "b2e71faf-84b7-4c18-bf38-b3cc56c57dba"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "The Central Business Area is exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14851,
+            "description": "Dayton Land Use and Development Code",
+            "url": "https://dayton.municipalcodeonline.com/book?type=ordinances#name=7.2.111.05_Building_Orientation",
+            "notes": "7.2.111.05.D.",
+            "attachments": [
+              {
+                "fileName": "dayton-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "a86902e1-a546-47b1-91f6-57841cc0f94e"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "dayton-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "914ad7c3-4c06-430a-9c9d-f41dd21fb535"
               }
             ]
           }
@@ -54097,6 +54520,118 @@
               {
                 "fileName": "essex-ontario-canada-screenshot.png",
                 "directusId": "e8e876d9-de63-4c17-8a8e-9ae36b091a75"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Estacada, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 120-150% of the minimums depending on whether the site has adjacent on-street parking.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14875,
+            "description": "Estacada Development Code",
+            "url": "https://estacada.municipalcodeonline.com/book?type=ordinances#name=16.76.010_Off-Street_Parking,_Bicycle_Parking_And_Loading_Requirements",
+            "notes": "16.76.010.Q.5.",
+            "attachments": [
+              {
+                "fileName": "estacada-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "39c0814e-5c40-4019-b798-85616f54e36d"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "estacada-oregon-united-states-add-max-screenshot.png",
+                "directusId": "28073b0e-f7c0-4110-a0c5-8c7bef1ff206"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "Parking requirements are reduced by 20% for uses in the D Downtown District which are outside the exempted area. Uses in the R-C Riverfront Commercial District may count public parking towards parking requirements. Bike parking may substitute for car parking in most nonresidential districts, and parking requirements may be reduced for uses which provide transit shelters or transit plazas citywide. On-street parking may count towards parking requirements for townhomes.",
+        "reporter": "Samuel Deetz",
+        "requirements": [
+          "bike parking",
+          "by right",
+          "frequent transit",
+          "other"
+        ],
+        "citations": [
+          {
+            "id": 14874,
+            "description": "Estacada Development Code",
+            "url": "https://estacada.municipalcodeonline.com/book?type=ordinances#name=16.26.040_Development_Standards",
+            "notes": "16.26.040.B.;\n16.34.060.B.;\n16.76.010.Q.2.;\n16.76.010.Q.4.;\n16.76.030;\n16.76.040;\n16.76.050",
+            "attachments": [
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "7209850e-a683-47ec-8139-c296aaa97ded"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot1.png",
+                "directusId": "a8ebb735-606c-41d7-8ac4-81c3c62f4e85"
+              },
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot2.png",
+                "directusId": "82c97d86-b240-4712-baf6-2cc671a2175b"
+              },
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot3.png",
+                "directusId": "a51f2713-67b8-4dc3-8f8d-faa0fd7cd865"
+              },
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot4.png",
+                "directusId": "2bc8e638-2403-47fa-aaf5-18c9686bf73a"
+              },
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot5.png",
+                "directusId": "317312fa-d7de-4501-9949-e1cdd286624a"
+              },
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot6.png",
+                "directusId": "816e7b04-c515-4e81-a823-60804348837d"
+              },
+              {
+                "fileName": "estacada-oregon-united-states-reduce-min-screenshot7.png",
+                "directusId": "b8927370-773e-4005-8254-4eac9705e4be"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "There is no minimum off-street parking requirement for uses located within one hundred (100) feet of Broadway Street between OR 224 and 2nd Avenue.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14873,
+            "description": "Estacada Development Code",
+            "url": "https://estacada.municipalcodeonline.com/book?type=ordinances#name=16.26.040_Development_Standards",
+            "notes": "16.26.040.B.",
+            "attachments": [
+              {
+                "fileName": "estacada-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "445051f9-aef2-4c9b-b4b2-832bcf6c61b3"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "estacada-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "67432e87-01e9-4738-8796-48831566241a"
               }
             ]
           }
@@ -73041,6 +73576,35 @@
       }
     ]
   },
+  "Harrisburg, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "The downtown historic district zone is exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14865,
+            "description": "Harrisburg Zoning and Development Code",
+            "url": "https://www.codepublishing.com/OR/Harrisburg/#!/Harrisburg18/Harrisburg1880.html#18.80.030",
+            "notes": "18.80.030.2.a.",
+            "attachments": [
+              {
+                "fileName": "harrisburg-oregon-united-states-attachment.pdf",
+                "directusId": "1894bb55-b7f1-47c5-b367-d9e77b7190fd"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "harrisburg-oregon-united-states-screenshot.png",
+                "directusId": "fae608c7-6f0e-4702-915a-22fab26e2fff"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Harrisburg, Pennsylvania, United States": {
     "rm_min": [
       {
@@ -75687,6 +76251,62 @@
               {
                 "fileName": "hermann-missouri-united-states-screenshot.png",
                 "directusId": "6d4edeb7-893d-432b-aa41-e3e9a642a230"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Hermiston, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Surface parking maximums are set at 110% of the minimums in the DCO downtown commercial overlay zone.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14883,
+            "description": "Hermiston Zoning Code",
+            "url": "https://www.codepublishing.com/OR/Hermiston/#!/Hermiston15/Hermiston15157.html#157.042",
+            "notes": "157.042(O)(1)",
+            "attachments": [
+              {
+                "fileName": "hermiston-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "800d0590-0fc8-4bae-91b1-b045bb6f2dbb"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "hermiston-oregon-united-states-add-max-screenshot.png",
+                "directusId": "141013c6-9a43-45fe-b504-1b428ab98578"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "On-street parking and public parking may count towards parking requirements in the DCO Downtown Commercial Overlay district.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other", "size of project"],
+        "citations": [
+          {
+            "id": 14884,
+            "description": "Hermiston Zoning Code",
+            "url": "https://www.codepublishing.com/OR/Hermiston/#!/Hermiston15/Hermiston15157.html#157.042",
+            "notes": "157.042(O)(3)",
+            "attachments": [
+              {
+                "fileName": "hermiston-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "ccfdf3d4-8ce3-4b28-9ec7-7e5a6ef40e38"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "hermiston-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "14b94419-6f38-4df8-a932-23378dfb6575"
               }
             ]
           }
@@ -82428,6 +83048,66 @@
       }
     ]
   },
+  "Jacksonville, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 110% of the minimums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14853,
+            "description": "Jacksonville Historic Protection and Design Regulations",
+            "url": "https://www.jacksonvilleor.us/DocumentCenter/View/100/Title-18-Historic-Protection-and-Design-Regulations-PDF",
+            "notes": "§ 18.17.040\nPage 60",
+            "attachments": [
+              {
+                "fileName": "jacksonville-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "2d0e6d9c-ba21-4f14-a28c-2c46b6e9571d"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "jacksonville-oregon-united-states-add-max-screenshot.png",
+                "directusId": "d9a6d7ff-6080-4d9d-9cd8-fdec44609628"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "The HC Historic Commercial District and the Peter Britt Festival grounds are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14852,
+            "description": "Jacksonville Historic Protection and Design Regulations",
+            "url": "https://www.jacksonvilleor.us/DocumentCenter/View/100/Title-18-Historic-Protection-and-Design-Regulations-PDF",
+            "notes": "§ 18.17.030;\n§ 18.17.040.9.;\nPages 59, 63",
+            "attachments": [
+              {
+                "fileName": "jacksonville-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "ea5b3a3e-02ce-4b71-9a4a-ce60055a3c9e"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "jacksonville-oregon-united-states-remove-min-screenshot1.png",
+                "directusId": "63ea6214-4981-484d-8e4d-688937d8601a"
+              },
+              {
+                "fileName": "jacksonville-oregon-united-states-remove-min-screenshot2.png",
+                "directusId": "e36e94b7-4d4e-42c2-9140-f96a64325b38"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Jacobus, Pennsylvania, United States": {
     "reduce_min": [
       {
@@ -82969,6 +83649,89 @@
               {
                 "fileName": "jefferson-iowa-united-states-screenshot2.png",
                 "directusId": "05a620bd-daa4-4bc3-bb28-1210189cde90"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Jefferson, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums apply to uses in commercial and mixed-use zones.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14858,
+            "description": "Jefferson Development Code",
+            "url": "https://ecode360.com/42590798#42590820",
+            "notes": "§ 12.44.060.C.",
+            "attachments": [
+              {
+                "fileName": "jefferson-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "fb77fb88-e8db-42a4-b43d-7ff9e88de996"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "jefferson-oregon-united-states-add-max-screenshot.png",
+                "directusId": "09248e88-1b50-4098-877f-b5d2317212f0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements for nonresidential uses in mixed-use or commercial zones.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14860,
+            "description": "Jefferson Development Code",
+            "url": "https://ecode360.com/42590798#42590820",
+            "notes": "§ 12.44.060B",
+            "attachments": [
+              {
+                "fileName": "jefferson-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "9f9fcc8c-19a6-465a-ab05-04be03bdc628"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "jefferson-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "b4264d5b-2ca7-459e-aea5-e273fb58404d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "Accessory dwelling units are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["accessory dwelling units", "by right"],
+        "citations": [
+          {
+            "id": 14861,
+            "description": "Jefferson Development Code",
+            "url": "https://ecode360.com/42591113#42591124",
+            "notes": "§ 12.62.060E",
+            "attachments": [
+              {
+                "fileName": "jefferson-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "a61921b6-a924-40ae-aef2-ba332aeb620a"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "jefferson-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "db4ac547-308b-4338-873c-78d7adfcb5a4"
               }
             ]
           }
@@ -88445,6 +89208,35 @@
               {
                 "fileName": "la-farge-wisconsin-united-states-screenshot.png",
                 "directusId": "76c3374c-7d37-4721-9f38-80bb92e29abe"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "La Grande, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "No off-street parking is required for outright uses is the CB Central Business District.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14886,
+            "description": "La Grande Land Development Code",
+            "url": "https://library.municode.com/or/la_grande/codes/code_of_ordinances?nodeId=SPBLADECO_CH103LAUSZO_ARTIIZODIGE_S103-32CEBUCB",
+            "notes": "Sec. 103-32.(d)(8)",
+            "attachments": [
+              {
+                "fileName": "la-grande-oregon-united-states-attachment.pdf",
+                "directusId": "4121d12b-3dbc-4ba4-bec6-c4ebde40be77"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "la-grande-oregon-united-states-screenshot.png",
+                "directusId": "6062fd50-ce9a-4c9f-b48c-398c2baa0773"
               }
             ]
           }
@@ -105193,6 +105985,109 @@
       }
     ]
   },
+  "McMinnville, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Surface parking is prohibited along Third Street in the downtown. Surface parking maximums are set at 110% of the minimums in the Neighborhood Activity Center Overlay District.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14893,
+            "description": "McMinnville Zoning Code",
+            "url": "https://mcminnville.municipal.codes/MMC/17.59.060",
+            "notes": "17.50.040.E.6.a.iv.;\n17.59.060.A.",
+            "attachments": [
+              {
+                "fileName": "mc-minnville-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "114159c6-c17c-4aad-b39d-70d3d7436a8c"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "mc-minnville-oregon-united-states-add-max-screenshot1.png",
+                "directusId": "f53f196b-eef8-43d6-ab0f-0fe745003025"
+              },
+              {
+                "fileName": "mc-minnville-oregon-united-states-add-max-screenshot2.png",
+                "directusId": "6b6ba332-dd58-46e8-9e7e-7c42926607ec"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "Parking requirements may be reduced through the provision of bike parking citywide. Parking requirements are reduced for uses on the north end of downtown. On-street parking may count towards parking requirements in the Neighborhood Activity Center Overlay District.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["bike parking", "by right", "other"],
+        "citations": [
+          {
+            "id": 14891,
+            "description": "McMinnville Zoning Code",
+            "url": "https://mcminnville.municipal.codes/MMC/17.60.140",
+            "notes": "17.50.040.E.6.a.ii.;\n17.60.100;\n17.60.140.A.3.",
+            "attachments": [
+              {
+                "fileName": "mc-minnville-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "2dd44481-e2a0-471b-96cb-612c9ab0e519"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "mc-minnville-oregon-united-states-reduce-min-screenshot1.png",
+                "directusId": "cecc61e9-3dab-452c-bf64-0a6ef1d90351"
+              },
+              {
+                "fileName": "mc-minnville-oregon-united-states-reduce-min-screenshot2.png",
+                "directusId": "9510764e-27d1-471d-a0d7-21e6507f1e3d"
+              },
+              {
+                "fileName": "mc-minnville-oregon-united-states-reduce-min-screenshot3.png",
+                "directusId": "1b3a7b73-2044-4763-ad3c-15701d529982"
+              },
+              {
+                "fileName": "mc-minnville-oregon-united-states-reduce-min-screenshot4.png",
+                "directusId": "740319f6-0816-4dfa-b332-c1661b3bdc8f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "The southerly 100 feet of Block 10 and the northerly 100 feet of Block 11, Rowland’s Addition and the area bounded by Second Street, Adams Street, Fourth Street, and Galloway Street are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14892,
+            "description": "McMinnville Zoning Code",
+            "url": "https://mcminnville.municipal.codes/MMC/17.60.060",
+            "notes": "17.60.060",
+            "attachments": [
+              {
+                "fileName": "mc-minnville-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "7b677d01-4aae-4711-af54-71219315553b"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "mc-minnville-oregon-united-states-remove-min-screenshot1.png",
+                "directusId": "700bae32-5e14-4f8e-a9ca-96b58a511906"
+              },
+              {
+                "fileName": "mc-minnville-oregon-united-states-remove-min-screenshot2.png",
+                "directusId": "9687c050-451d-4a70-8c1e-665ed674f294"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "McMinnville, Tennessee, United States": {
     "rm_min": [
       {
@@ -113480,6 +114375,62 @@
       }
     ]
   },
+  "Mount Angel, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "Within the Downtown Core Zone Overlay District, residential uses in existing buildings are exempt from parking mandates and nonresidential uses over 4,000 square feet have reduced parking requirements.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "other", "size of project"],
+        "citations": [
+          {
+            "id": 14847,
+            "description": "Mount Angel Development Code",
+            "url": "https://www.ci.mt-angel.or.us/files/documents/DevelopmentCode9033644050625PM.pdf",
+            "notes": "8.3\nPage 87",
+            "attachments": [
+              {
+                "fileName": "mount-angel-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "df3d5004-a7ef-447f-83fc-d1f2d6ab0dd4"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "mount-angel-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "0de820b4-ebcc-4bc3-acd0-1c06d76b1326"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "Nonresidential uses under 4,000 square feet in the Downtown Core Zone Overlay District are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "size of project"],
+        "citations": [
+          {
+            "id": 14846,
+            "description": "Mount Angel Development Code",
+            "url": "https://www.ci.mt-angel.or.us/files/documents/DevelopmentCode9033644050625PM.pdf",
+            "notes": "8.3\nPage 87",
+            "attachments": [
+              {
+                "fileName": "mount-angel-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "2a4a93e4-0c0d-46e7-b063-bf28060dd0fa"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "mount-angel-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "f4b72055-d5d7-4513-9fc1-aaef4c24a4fa"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Mount Arlington, New Jersey, United States": {
     "reduce_min": [
       {
@@ -116215,6 +117166,35 @@
               {
                 "fileName": "myerstown-pennsylvania-united-states-remove-min-screenshot.png",
                 "directusId": "5292b85c-92dd-4bcc-806f-8307540b275d"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Myrtle Creek, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "The downtown core area is exempt from parking mandates except for grocery and convenience stores.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14859,
+            "description": "Myrtle Creek Zoning Code",
+            "url": "https://www.codepublishing.com/OR/MyrtleCreek/#!/MyrtleCreek18/MyrtleCreek1890.html#18.90.050",
+            "notes": "18.90.050(2)",
+            "attachments": [
+              {
+                "fileName": "myrtle-creek-oregon-united-states-attachment.pdf",
+                "directusId": "0809733f-92c6-4328-84ef-045bb11c4def"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "myrtle-creek-oregon-united-states-screenshot.png",
+                "directusId": "f723e4f4-c4d8-48d6-b4f8-436a26a7808c"
               }
             ]
           }
@@ -122766,6 +123746,39 @@
       }
     ]
   },
+  "North Plains, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements. Commercial uses in existing buildings in the C-1 Community Commercial District are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14862,
+            "description": "North Plains Zoning and Development Code",
+            "url": "https://codelibrary.amlegal.com/codes/northplainsor/latest/northplains_or/0-0-0-7619",
+            "notes": "§ 155.671(I);\n§ 155.672",
+            "attachments": [
+              {
+                "fileName": "north-plains-oregon-united-states-attachment.pdf",
+                "directusId": "ad45edfa-3a8e-46c0-b7bf-0563d51db5c2"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "north-plains-oregon-united-states-screenshot1.png",
+                "directusId": "ec501b64-80de-4f8b-9fd8-ea18294ee302"
+              },
+              {
+                "fileName": "north-plains-oregon-united-states-screenshot2.png",
+                "directusId": "6457e417-f7f1-4652-9a4b-5156f0003eab"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "North Platte, Nebraska, United States": {
     "rm_min": [
       {
@@ -123647,6 +124660,35 @@
       }
     ]
   },
+  "Northwood, Ohio, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 100% of the minimums for multi-family and nonresidential uses.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14844,
+            "description": "Northwood Zoning Code",
+            "url": "https://codelibrary.amlegal.com/codes/northwood/latest/northwood_oh/0-0-0-15019",
+            "notes": "1282.05(h)",
+            "attachments": [
+              {
+                "fileName": "northwood-ohio-united-states-attachment.pdf",
+                "directusId": "1ebe432b-8341-4aad-a8a7-d49dd254c2a1"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "northwood-ohio-united-states-screenshot.png",
+                "directusId": "737f11fe-b14c-404a-876c-4c85543083e5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Norton, Kansas, United States": {
     "rm_min": [
       {
@@ -124242,6 +125284,62 @@
               {
                 "fileName": "nyack-new-york-united-states-remove-min-screenshot.png",
                 "directusId": "197ba40c-73b4-4d3d-8545-2fa9bdec63c2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Nyssa, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums apply to all uses.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14857,
+            "description": "Nyssa Development Code",
+            "url": "https://codelibrary.amlegal.com/codes/nyssaor/latest/nyssa_or/0-0-0-5101",
+            "notes": "9-3E-3.C.",
+            "attachments": [
+              {
+                "fileName": "nyssa-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "41f66a85-d951-4d0c-9dcc-2f025a8f1ae5"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "nyssa-oregon-united-states-add-max-screenshot.png",
+                "directusId": "82b1024a-a05b-4ac7-9ca8-b92be0dd3be8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "Uses within the commercial zone and fronting Main Street are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14856,
+            "description": "Nyssa Development Code",
+            "url": "https://codelibrary.amlegal.com/codes/nyssaor/latest/nyssa_or/0-0-0-5101",
+            "notes": "9-3E-3.B.1.",
+            "attachments": [
+              {
+                "fileName": "nyssa-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "c84e4ea6-87c0-4e5b-9e3d-43a0b04846e8"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "nyssa-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "ccd63799-0831-419e-a868-a59df5aa42ea"
               }
             ]
           }
@@ -125057,6 +126155,35 @@
               {
                 "fileName": "oakmont-pennsylvania-united-states-screenshot.png",
                 "directusId": "0e14aeef-d79d-416f-85f5-7562d71c296b"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Oakridge, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements in commercial or residential districts.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14848,
+            "description": "Oakridge Zoning Code",
+            "url": "https://www.ci.oakridge.or.us/media/11851",
+            "notes": "SECTION 20.07\nPage 76",
+            "attachments": [
+              {
+                "fileName": "oakridge-oregon-united-states-attachment.pdf",
+                "directusId": "58e5dd83-eb34-4a43-903e-0b40db85e92e"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "oakridge-oregon-united-states-screenshot.png",
+                "directusId": "4d041d2f-8e55-4b71-8190-b18c73271358"
               }
             ]
           }
@@ -126636,6 +127763,35 @@
               {
                 "fileName": "ontario-california-united-states-remove-min-screenshot.png",
                 "directusId": "34e26ef1-33c9-43a3-8c0c-69c356facd80"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Ontario, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements in commercial zoning districts.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14889,
+            "description": "Ontario Zoning Code",
+            "url": "https://library.municode.com/or/ontario/codes/planning_and_zoning_development_standards?nodeId=TIT10ASUZORE_CH10A-57GEPR_10A-57-65APIN",
+            "notes": "10A-57-65.10",
+            "attachments": [
+              {
+                "fileName": "ontario-oregon-united-states-attachment.pdf",
+                "directusId": "2b0ba5c4-cadc-4df1-a935-a010ef02434a"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "ontario-oregon-united-states-screenshot.png",
+                "directusId": "86476c10-4e0b-46a3-9317-2cbb4569b61a"
               }
             ]
           }
@@ -133572,6 +134728,68 @@
               {
                 "fileName": "phoenix-arizona-united-states-citation3-screenshot.png",
                 "directusId": "3adac555-05ab-4738-9f2c-3b4a46b9e1ae"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Phoenix, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Surface parking maximums are set at 105% of the minimums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14888,
+            "description": "Phoenix Land Development Code",
+            "url": "https://www.phoenixoregon.gov/wp-content/uploads/2025/07/Phoenix-Land-Development-Code-Ord-1045-Eff-7-16-2025.pdf",
+            "notes": "3.4.3.C.\nPage 155",
+            "attachments": [
+              {
+                "fileName": "phoenix-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "24f727a7-3b79-4f10-990b-eb0186be6482"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "phoenix-oregon-united-states-add-max-screenshot.png",
+                "directusId": "28b3ab69-50e0-422e-b9ba-474a7475d7c2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "Child care facilities, residential units under 750 square feet, affordable housing, accessory dwelling units, and multi-family housing near transit are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": [
+          "accessory dwelling units",
+          "affordable housing",
+          "by right",
+          "frequent transit",
+          "size of project"
+        ],
+        "citations": [
+          {
+            "id": 14887,
+            "description": "Phoenix Land Development Code",
+            "url": "https://www.phoenixoregon.gov/wp-content/uploads/2025/07/Phoenix-Land-Development-Code-Ord-1045-Eff-7-16-2025.pdf",
+            "notes": "Table 3.4.3.A\nPage 154",
+            "attachments": [
+              {
+                "fileName": "phoenix-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "e2fa55bc-a79d-4d24-b6b2-ebe46cdb7f96"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "phoenix-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "3b214ed7-bb7d-41f7-ae95-66dd05eea8ff"
               }
             ]
           }
@@ -140739,6 +141957,101 @@
       }
     ]
   },
+  "Redmond, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums apply to Single Room Occupancy developments.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14895,
+            "description": "Redmond Zoning Code",
+            "url": "https://library.municode.com/or/redmond/codes/code_of_ordinances?nodeId=CH8DERE_ARTIZOST_OREPALORE_S8.500OREPA",
+            "notes": "Sec. 8.500.1.",
+            "attachments": [
+              {
+                "fileName": "redmond-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "28e82cbb-cac5-4729-ad52-68dd370ff5d4"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "redmond-oregon-united-states-add-max-screenshot.png",
+                "directusId": "31901b5d-09f6-4b2c-a0cc-4db32a030d23"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "A fee in lieu of parking may be provided in the Downtown Overlay District. A business change of use is exempt from parking mandates in the Central Business District (C-2 zone) and Downtown Overlay District (DOD).",
+        "reporter": "Samuel Deetz",
+        "requirements": ["in-lieu fees", "other"],
+        "citations": [
+          {
+            "id": 14894,
+            "description": "Redmond Zoning Code",
+            "url": "https://library.municode.com/or/redmond/codes/code_of_ordinances?nodeId=CH8DERE_ARTIZOST_COUSINUSZO_S8.175DOOVDI",
+            "notes": "Sec. 8.175.7.;\nSec. 8.505..1.",
+            "attachments": [
+              {
+                "fileName": "redmond-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "f5597ee7-6e6e-4e03-9e00-6a1e0cd7a74e"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "redmond-oregon-united-states-reduce-min-screenshot1.png",
+                "directusId": "5fb17181-f086-4320-84c1-d77584acfad0"
+              },
+              {
+                "fileName": "redmond-oregon-united-states-reduce-min-screenshot2.png",
+                "directusId": "2c75022d-81b8-4b55-a4e0-9f35b38ce437"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "The first 1,000 square feet of an eating and drinking establishment or retail uses are exempt from parking mandates in the MUN Mixed-Use Neighborhood and MUE Mixed-Use Employment districts. The first 1,000 square feet of office and mixed-uses are exempt from parking mandates in the MUN district.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "size of project"],
+        "citations": [
+          {
+            "id": 14896,
+            "description": "Redmond Zoning Code",
+            "url": "https://library.municode.com/or/redmond/codes/code_of_ordinances?nodeId=CH8DERE_ARTIZOST_OREPALORE_S8.500OREPA",
+            "notes": "Sec. 8.500.1.",
+            "attachments": [
+              {
+                "fileName": "redmond-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "2230100b-68ce-4f2e-a434-a2ec58d30dd5"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "redmond-oregon-united-states-remove-min-screenshot1.png",
+                "directusId": "c07677f8-8e77-4a4a-96f9-fccef5483668"
+              },
+              {
+                "fileName": "redmond-oregon-united-states-remove-min-screenshot2.png",
+                "directusId": "ed124261-f2c2-4614-a683-ebda56a66812"
+              },
+              {
+                "fileName": "redmond-oregon-united-states-remove-min-screenshot3.png",
+                "directusId": "972ecb47-2e0a-4714-8282-ad7d83509bf5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Redmond, Washington, United States": {
     "add_max": [
       {
@@ -140846,6 +142159,35 @@
               {
                 "fileName": "reedsburg-wisconsin-united-states-screenshot.png",
                 "directusId": "874957bd-8ef5-4bd2-b23d-f25e39b96c0e"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Reedsport, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "Parking requirements may be reduced in the CMU Commercial Mixed-use zone through on-street parking or bike parking upon approval of the Community Development Planner.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["bike parking", "other"],
+        "citations": [
+          {
+            "id": 14872,
+            "description": "Reedsport Land Use Code",
+            "url": "https://www.cityofreedsport.org/media/11126",
+            "notes": "10.72.085.E.6.\nPage 372",
+            "attachments": [
+              {
+                "fileName": "reedsport-oregon-united-states-attachment.pdf",
+                "directusId": "ffcb1455-3c24-48b1-95cb-d1ac60e5926f"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "reedsport-oregon-united-states-screenshot.png",
+                "directusId": "92b966b9-c244-44a4-9b3c-4d9aa7b99e83"
               }
             ]
           }
@@ -154718,6 +156060,134 @@
       }
     ]
   },
+  "Sherwood, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums apply to some nonresidential uses.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14905,
+            "description": "Sherwood Zoning and Community Development Code",
+            "url": "https://library.municode.com/or/sherwood/codes/code_of_ordinances?nodeId=TIT16ZOCODECO_DIVVCODE_CH16.94OREPALO_16.94.020OREPAST",
+            "notes": "16.94.020.A.",
+            "attachments": [
+              {
+                "fileName": "sherwood-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "e54d1638-c5b6-42bd-8fd8-18a21384689b"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "sherwood-oregon-united-states-add-max-screenshot.png",
+                "directusId": "299c4341-da74-4620-ae9a-9615e3ef84db"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "Unbundled parking is required for most commercial uses.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14902,
+            "description": "Sherwood Business Licenses and Regulations",
+            "url": "https://library.municode.com/or/sherwood/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.36UNPACOLE_5.36.010PARELECOUS",
+            "notes": "5.36.010",
+            "attachments": [],
+            "screenshots": [
+              {
+                "fileName": "sherwood-oregon-united-states-reduce-min1-screenshot.png",
+                "directusId": "4f03626a-3972-442c-be0c-9b7925ee72bb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "summary": "Parking requirements are reduced for mixed-uses, bioswales, renewable energy, carshare, EV chargers, or accessible dwellings. On-street parking may count towards parking requirements for nonresidential uses. ",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "carshare", "other"],
+        "citations": [
+          {
+            "id": 14903,
+            "description": "Sherwood Zoning and Community Development Code",
+            "url": "https://library.municode.com/or/sherwood/codes/code_of_ordinances?nodeId=TIT16ZOCODECO_DIVVCODE_CH16.94OREPALO_16.94.010GERE",
+            "notes": "16.94.010.C.2.;\n16.94.010.E.2.;\n16.94.020.B.5.;\n16.94.020.B.6.",
+            "attachments": [
+              {
+                "fileName": "sherwood-oregon-united-states-reduce-min2-attachment.pdf",
+                "directusId": "14ee0714-600c-4564-b7d5-26f604ff3f6d"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "sherwood-oregon-united-states-reduce-min2-screenshot1.png",
+                "directusId": "496c363c-f915-41b2-be7a-bf0c0f6e7317"
+              },
+              {
+                "fileName": "sherwood-oregon-united-states-reduce-min2-screenshot2.png",
+                "directusId": "b9361432-1eef-439c-9206-8bab19ec283a"
+              },
+              {
+                "fileName": "sherwood-oregon-united-states-reduce-min2-screenshot3.png",
+                "directusId": "625e533d-fbd4-4267-8243-c809ecd3f4ce"
+              },
+              {
+                "fileName": "sherwood-oregon-united-states-reduce-min2-screenshot4.png",
+                "directusId": "2d1f8bcf-27a1-45dd-80eb-e24179ca8245"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "No off-street parking is required within one-half (½) mile of a frequent transit corridor or within the Sherwood Town Center and one-quarter mile of the area. Child care, elementary and junior high schools, nursing homes, libraries, small residential uses, and affordable housing are exempt citywide.",
+        "reporter": "Samuel Deetz",
+        "requirements": [
+          "affordable housing",
+          "by right",
+          "frequent transit",
+          "size of project"
+        ],
+        "citations": [
+          {
+            "id": 14904,
+            "description": "Sherwood Zoning and Community Development Code",
+            "url": "https://library.municode.com/or/sherwood/codes/code_of_ordinances?nodeId=TIT16ZOCODECO_DIVVCODE_CH16.94OREPALO_16.94.020OREPAST",
+            "notes": "16.94.020.A.",
+            "attachments": [
+              {
+                "fileName": "sherwood-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "1e89797e-7716-47e7-b673-9986c7169588"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "sherwood-oregon-united-states-remove-min-screenshot1.png",
+                "directusId": "e91ddbb1-20e1-4c64-9876-29e81883cce6"
+              },
+              {
+                "fileName": "sherwood-oregon-united-states-remove-min-screenshot2.png",
+                "directusId": "8481761d-586c-42d0-8fcc-8424dbd52bc4"
+              },
+              {
+                "fileName": "sherwood-oregon-united-states-remove-min-screenshot3.png",
+                "directusId": "3c83e6bd-c09f-40f0-8e65-091594a1e20f"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Sherwood, Wisconsin, United States": {
     "reduce_min": [
       {
@@ -156050,6 +157520,62 @@
               {
                 "fileName": "sister-bay-wisconsin-united-states-screenshot5.png",
                 "directusId": "7d719a42-c130-4333-b54b-acc7c8f56e3a"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Sisters, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Surface parking maximums apply to all uses.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14854,
+            "description": "Sisters Development Code",
+            "url": "https://www.codepublishing.com/OR/Sisters/#!/SistersDevCode03/SistersDevCode0303.html#3.3.300",
+            "notes": "3.3.300.E.",
+            "attachments": [
+              {
+                "fileName": "sisters-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "088f658f-eb5e-41c9-93b8-7848405e35a0"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "sisters-oregon-united-states-add-max-screenshot.png",
+                "directusId": "a6ea5b13-e146-4b96-a8a6-2d6bbd6098d4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "Within the Downtown Parking District, on-street parking may count towards parking requirements and a fee in lieu of parking may be provided.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["in-lieu fees", "other"],
+        "citations": [
+          {
+            "id": 14855,
+            "description": "Sisters Development Code",
+            "url": "https://www.codepublishing.com/OR/Sisters/#!/SistersDevCode03/SistersDevCode0303.html#3.3.300",
+            "notes": "3.3.300.B.;\n3.3.300.C.",
+            "attachments": [
+              {
+                "fileName": "sisters-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "937fd364-2b59-4c99-82f1-fff40d1dd48b"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "sisters-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "3701a1cd-6da6-4f9d-bc72-bbda09ef5575"
               }
             ]
           }
@@ -163118,6 +164644,62 @@
               {
                 "fileName": "staunton-virginia-united-states-remove-min-screenshot.png",
                 "directusId": "8476c5fb-32b9-445c-a108-76755d4d4ab5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Stayton, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 125% of the minimums in the CCMU, DCMU, and DRMU downtown zones.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14880,
+            "description": "Stayton Development and Improvement Code",
+            "url": "https://www.staytonoregon.gov/page/open/2812/0/17.20%20Design%20Standards.pdf",
+            "notes": "17.20.060.7.e.2)\nPage 11",
+            "attachments": [
+              {
+                "fileName": "stayton-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "f3b8c3a7-1462-4e8a-879f-63579fc3b420"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "stayton-oregon-united-states-add-max-screenshot.png",
+                "directusId": "4ee4dc7a-99db-4012-b8ce-9a8b6beec29f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "Nonresidential uses in the CCMU, DCMU, and DRMU downtown zones are exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14879,
+            "description": "Stayton Development and Improvement Code",
+            "url": "https://www.staytonoregon.gov/page/open/2812/0/17.20%20Design%20Standards.pdf",
+            "notes": "17.20.060.7.e.1)\nPage 11",
+            "attachments": [
+              {
+                "fileName": "stayton-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "6f54627c-31c5-4338-9644-d76df7f07751"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "stayton-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "7118307d-28a0-4939-a54c-6eb067d4b076"
               }
             ]
           }
@@ -170359,6 +171941,66 @@
       }
     ]
   },
+  "Toledo, Oregon, United States": {
+    "reduce_min": [
+      {
+        "summary": "Parking requirements may be reduced for on-street parking or bike parking.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["bike parking", "other"],
+        "citations": [
+          {
+            "id": 14864,
+            "description": "Toledo Zoning Code",
+            "url": "https://library.municode.com/or/toledo/codes/municipal_code?nodeId=TIT17ZO_CH17.44OREPALO_17.44.040REPACR",
+            "notes": "17.44.040;\n17.44.080",
+            "attachments": [
+              {
+                "fileName": "toledo-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "3e5be086-b5d8-40c1-b26c-6def80cf37ae"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "toledo-oregon-united-states-reduce-min-screenshot1.png",
+                "directusId": "ce58267c-79b9-43e6-9446-2101b1f17b51"
+              },
+              {
+                "fileName": "toledo-oregon-united-states-reduce-min-screenshot2.png",
+                "directusId": "26c8371f-b5bb-4434-95b9-bd0068e205ff"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "The Main Street District area is exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14863,
+            "description": "Toledo Zoning Code",
+            "url": "https://library.municode.com/or/toledo/codes/municipal_code?nodeId=TIT17ZO_CH17.44OREPALO_17.44.020AP",
+            "notes": "17.44.020",
+            "attachments": [
+              {
+                "fileName": "toledo-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "9133c58f-05e2-41c9-824b-783ff94249d4"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "toledo-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "d9a28e14-168f-4ef7-9826-9eeca2854142"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Tolland, Connecticut, United States": {
     "add_max": [
       {
@@ -173225,6 +174867,35 @@
       }
     ]
   },
+  "Umatilla, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 150% of the minimums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14898,
+            "description": "Umatilla Zoning Code",
+            "url": "https://library.municode.com/or/umatilla/codes/code_of_ordinances?nodeId=COOR_TIT10ZO_CH9OREPALO_S10-9-1OREPALO",
+            "notes": "Sec. 10-9-1.C.6.",
+            "attachments": [
+              {
+                "fileName": "umatilla-oregon-united-states-attachment.pdf",
+                "directusId": "93c08835-73c9-450d-8582-922778ae69e0"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "umatilla-oregon-united-states-screenshot.png",
+                "directusId": "6e85abf8-447e-4305-9d95-44f2b9472fa7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Underwood, Iowa, United States": {
     "rm_min": [
       {
@@ -174919,6 +176590,35 @@
               {
                 "fileName": "velva-north-dakota-united-states-screenshot.png",
                 "directusId": "723a966d-94bb-4ef7-94a5-8b275dd1329b"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Veneta, Oregon, United States": {
+    "rm_min": [
+      {
+        "summary": "The Broadway Commercial (BC) Zone is exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14878,
+            "description": "Veneta Zoning and Development Code",
+            "url": "https://www.venetaoregon.gov/DocumentCenter/View/1333/Veneta-Zoning-and-Development-Code---Effective-May-2025",
+            "notes": "4.05.11)\nPage 26",
+            "attachments": [
+              {
+                "fileName": "veneta-oregon-united-states-attachment.pdf",
+                "directusId": "7c33ce4c-a48f-400c-a2a3-1cace4c0cf22"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "veneta-oregon-united-states-screenshot.png",
+                "directusId": "659559a1-3b37-4c4b-b21a-410fe250b025"
               }
             ]
           }
@@ -177586,6 +179286,35 @@
               {
                 "fileName": "warrensville-heights-ohio-united-states-screenshot.png",
                 "directusId": "3168ac9c-eb64-43ab-aa51-77b788230e7e"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Warrenton, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Sites that are adjacent to existing or planned transit stops or are in the General Commercial (C-1) and Commercial Mixed Use (C-MU) districts are subject to parking maximums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "frequent transit"],
+        "citations": [
+          {
+            "id": 14897,
+            "description": "Warrenton Development Code",
+            "url": "https://ecode360.com/44198730#44198733",
+            "notes": "§ 16.128.030A.9",
+            "attachments": [
+              {
+                "fileName": "warrenton-oregon-united-states-attachment.pdf",
+                "directusId": "1880c80b-988c-443d-8543-8b696b3d33a8"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "warrenton-oregon-united-states-screenshot.png",
+                "directusId": "604bc090-c6c8-4525-8e9b-08f269fd9177"
               }
             ]
           }
@@ -187595,6 +189324,62 @@
       }
     ]
   },
+  "Wood Village, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums apply to many nonresidential uses and are set lower near transit.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right", "frequent transit"],
+        "citations": [
+          {
+            "id": 14877,
+            "description": "Wood Village Development Code",
+            "url": "https://woodvillage.municipal.codes/WVDC/350.045",
+            "notes": "Table 350-1B.",
+            "attachments": [
+              {
+                "fileName": "wood-village-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "9e38337d-5a06-40ef-87b1-ba1fd155b7e4"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "wood-village-oregon-united-states-add-max-screenshot.png",
+                "directusId": "a9f27fec-c23b-4650-b29a-33a164f70eae"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "summary": "On-street parking may count towards parking requirements.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["other"],
+        "citations": [
+          {
+            "id": 14876,
+            "description": "Wood Village Development Code",
+            "url": "https://woodvillage.municipal.codes/WVDC/350.045",
+            "notes": "350.045.1.*",
+            "attachments": [
+              {
+                "fileName": "wood-village-oregon-united-states-reduce-min-attachment.pdf",
+                "directusId": "3007ba11-d4d5-4661-9af0-c62671fc1d93"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "wood-village-oregon-united-states-reduce-min-screenshot.png",
+                "directusId": "3db785da-4ee0-4923-9334-d179b2ef4fbc"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "Woodbine, New Jersey, United States": {
     "reduce_min": [
       {
@@ -187731,6 +189516,62 @@
               {
                 "fileName": "woodburn-indiana-united-states-remove-min-screenshot.png",
                 "directusId": "55571efb-3cc9-4117-851d-a8309e126143"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Woodburn, Oregon, United States": {
+    "add_max": [
+      {
+        "summary": "Parking maximums are set at 200% of the minimums.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14882,
+            "description": "Woodburn Development Code",
+            "url": "https://www.woodburn-or.gov/sites/default/files/fileattachments/community_dev._planning/page/10652/wdo-revised_october_2025.pdf",
+            "notes": "3.05.03.A.2.\nPage 184",
+            "attachments": [
+              {
+                "fileName": "woodburn-oregon-united-states-add-max-attachment.pdf",
+                "directusId": "ad443530-f97e-40d3-83d4-5066c228d6d3"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "woodburn-oregon-united-states-add-max-screenshot.png",
+                "directusId": "a485c583-b055-4efa-b9f1-a0d338ce57da"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "summary": "The Downtown Development and Conservation (DDC) zone is exempt from parking mandates.",
+        "reporter": "Samuel Deetz",
+        "requirements": ["by right"],
+        "citations": [
+          {
+            "id": 14881,
+            "description": "Woodburn Development Code",
+            "url": "https://www.woodburn-or.gov/sites/default/files/fileattachments/community_dev._planning/page/10652/wdo-revised_october_2025.pdf",
+            "notes": "3.07.07.B.12.a.\nPage 248",
+            "attachments": [
+              {
+                "fileName": "woodburn-oregon-united-states-remove-min-attachment.pdf",
+                "directusId": "90c68471-dab4-4300-a98d-c29d0a653979"
+              }
+            ],
+            "screenshots": [
+              {
+                "fileName": "woodburn-oregon-united-states-remove-min-screenshot.png",
+                "directusId": "ffe585ab-2f61-4a8d-96a9-e69055706213"
               }
             ]
           }

@@ -3398,6 +3398,24 @@
       }
     ]
   },
+  "Astoria, Oregon, United States": {
+    "place": {
+      "name": "Astoria",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "astoria-oregon-united-states",
+      "pop": 10181,
+      "coord": [-123.8319802, 46.1882007]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district", "main street / special"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Atchison, Kansas, United States": {
     "place": {
       "name": "Atchison",
@@ -3922,6 +3940,37 @@
       }
     ]
   },
+  "Aumsville, Oregon, United States": {
+    "place": {
+      "name": "Aumsville",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "aumsville-oregon-united-states",
+      "pop": 4234,
+      "coord": [-122.870924, 44.8409548]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": [
+          "commercial",
+          "industrial",
+          "medical",
+          "other",
+          "residential, multi-family"
+        ]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Aurelia, Iowa, United States": {
     "place": {
       "name": "Aurelia",
@@ -4343,6 +4392,38 @@
       }
     ]
   },
+  "Baker City, Oregon, United States": {
+    "place": {
+      "name": "Baker City",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "baker-city-oregon-united-states",
+      "pop": 10099,
+      "coord": [-117.834384, 44.7748748]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["commercial"]
+      }
+    ]
+  },
   "Baker, Montana, United States": {
     "place": {
       "name": "Baker",
@@ -4621,6 +4702,24 @@
         "scope": ["citywide"],
         "land": ["all uses"],
         "date": "2021-11-16"
+      }
+    ]
+  },
+  "Bandon, Oregon, United States": {
+    "place": {
+      "name": "Bandon",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "bandon-oregon-united-states",
+      "pop": 3321,
+      "coord": [-124.4094086, 43.1195634]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -8696,6 +8795,31 @@
       }
     ]
   },
+  "Boardman, Oregon, United States": {
+    "place": {
+      "name": "Boardman",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "boardman-oregon-united-states",
+      "pop": 3828,
+      "coord": [-119.700583, 45.839855]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district", "main street / special"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Boaz, Alabama, United States": {
     "place": {
       "name": "Boaz",
@@ -11584,6 +11708,24 @@
       }
     ]
   },
+  "Burns, Oregon, United States": {
+    "place": {
+      "name": "Burns",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "burns-oregon-united-states",
+      "pop": 2730,
+      "coord": [-119.054413, 43.5861256]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Burnsville, Minnesota, United States": {
     "place": {
       "name": "Burnsville",
@@ -12530,6 +12672,24 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["commercial", "other"]
+      }
+    ]
+  },
+  "Canby, Oregon, United States": {
+    "place": {
+      "name": "Canby",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "canby-oregon-united-states",
+      "pop": 18171,
+      "coord": [-122.6925983, 45.2629088]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -19271,6 +19431,31 @@
       }
     ]
   },
+  "Coquille, Oregon, United States": {
+    "place": {
+      "name": "Coquille",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "coquille-oregon-united-states",
+      "pop": 4015,
+      "coord": [-124.187608, 43.177055]
+    },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Coraopolis, Pennsylvania, United States": {
     "place": {
       "name": "Coraopolis",
@@ -21509,6 +21694,37 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["commercial", "other"]
+      }
+    ]
+  },
+  "Dayton, Oregon, United States": {
+    "place": {
+      "name": "Dayton",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "dayton-oregon-united-states",
+      "pop": 2678,
+      "coord": [-123.076141, 45.2206945]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": [
+          "commercial",
+          "industrial",
+          "medical",
+          "other",
+          "residential, multi-family"
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -27812,6 +28028,42 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["commercial", "other", "residential, all uses"]
+      }
+    ]
+  },
+  "Estacada, Oregon, United States": {
+    "place": {
+      "name": "Estacada",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "estacada-oregon-united-states",
+      "pop": 4356,
+      "coord": [-122.334259, 45.2864689]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": [
+          "city center / business district",
+          "citywide",
+          "main street / special"
+        ],
+        "land": ["all uses", "residential, low-density"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -37652,6 +37904,24 @@
       }
     ]
   },
+  "Harrisburg, Oregon, United States": {
+    "place": {
+      "name": "Harrisburg",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "harrisburg-oregon-united-states",
+      "pop": 3652,
+      "coord": [-123.170648, 44.2740124]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Harrisburg, Pennsylvania, United States": {
     "place": {
       "name": "Harrisburg",
@@ -39134,6 +39404,31 @@
         "scope": ["city center / business district"],
         "land": ["all uses"],
         "date": "2014-12-08"
+      }
+    ]
+  },
+  "Hermiston, Oregon, United States": {
+    "place": {
+      "name": "Hermiston",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "hermiston-oregon-united-states",
+      "pop": 19696,
+      "coord": [-119.28946, 45.8404101]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -42646,6 +42941,31 @@
       }
     ]
   },
+  "Jacksonville, Oregon, United States": {
+    "place": {
+      "name": "Jacksonville",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "jacksonville-oregon-united-states",
+      "pop": 3020,
+      "coord": [-122.965346, 42.314411]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district", "main street / special"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Jacobus, Pennsylvania, United States": {
     "place": {
       "name": "Jacobus",
@@ -42940,6 +43260,38 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["all uses"]
+      }
+    ]
+  },
+  "Jefferson, Oregon, United States": {
+    "place": {
+      "name": "Jefferson",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "jefferson-oregon-united-states",
+      "pop": 3327,
+      "coord": [-123.01020431797424, 44.71734152404389]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["commercial", "other"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["residential, low-density"]
       }
     ]
   },
@@ -45721,6 +46073,24 @@
       "encoded": "LaFarge_WI",
       "pop": 720,
       "coord": [-90.6394929, 43.5751362]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
+  "La Grande, Oregon, United States": {
+    "place": {
+      "name": "La Grande",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "la-grande-oregon-united-states",
+      "pop": 13026,
+      "coord": [-118.0878695, 45.3246068]
     },
     "rm_min": [
       {
@@ -54500,6 +54870,38 @@
       }
     ]
   },
+  "McMinnville, Oregon, United States": {
+    "place": {
+      "name": "McMinnville",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "mcminnville-oregon-united-states",
+      "pop": 34319,
+      "coord": [-123.194463, 45.2100367]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["main street / special"],
+        "land": ["all uses"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide", "main street / special"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "McMinnville, Tennessee, United States": {
     "place": {
       "name": "McMinnville",
@@ -58814,6 +59216,31 @@
       }
     ]
   },
+  "Mount Angel, Oregon, United States": {
+    "place": {
+      "name": "Mount Angel",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "mount-angel-oregon-united-states",
+      "pop": 3392,
+      "coord": [-122.799682, 45.0678032]
+    },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["commercial", "other", "residential, multi-family"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["commercial", "other"]
+      }
+    ]
+  },
   "Mount Arlington, New Jersey, United States": {
     "place": {
       "name": "Mount Arlington",
@@ -60228,6 +60655,24 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["commercial", "other", "residential, all uses"]
+      }
+    ]
+  },
+  "Myrtle Creek, Oregon, United States": {
+    "place": {
+      "name": "Myrtle Creek",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "myrtle-creek-oregon-united-states",
+      "pop": 3481,
+      "coord": [-123.293121, 43.020118]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["commercial", "other", "residential, multi-family"]
       }
     ]
   },
@@ -63476,6 +63921,24 @@
       }
     ]
   },
+  "North Plains, Oregon, United States": {
+    "place": {
+      "name": "North Plains",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "north-plains-oregon-united-states",
+      "pop": 3441,
+      "coord": [-122.993626, 45.5973123]
+    },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district", "citywide"],
+        "land": ["all uses", "commercial"]
+      }
+    ]
+  },
   "North Platte, Nebraska, United States": {
     "place": {
       "name": "North Platte",
@@ -63892,6 +64355,30 @@
       }
     ]
   },
+  "Northwood, Ohio, United States": {
+    "place": {
+      "name": "Northwood",
+      "state": "Ohio",
+      "country": "United States",
+      "type": "city",
+      "encoded": "northwood-ohio-united-states",
+      "pop": 5160,
+      "coord": [-83.4688204, 41.607272]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": [
+          "commercial",
+          "industrial",
+          "medical",
+          "other",
+          "residential, multi-family"
+        ]
+      }
+    ]
+  },
   "Norton, Kansas, United States": {
     "place": {
       "name": "Norton",
@@ -64185,6 +64672,31 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["commercial", "residential, all uses"]
+      }
+    ]
+  },
+  "Nyssa, Oregon, United States": {
+    "place": {
+      "name": "Nyssa",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "nyssa-oregon-united-states",
+      "pop": 3198,
+      "coord": [-116.9948804, 43.8768289]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["main street / special"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -64614,6 +65126,24 @@
         "scope": ["city center / business district"],
         "land": ["all uses"],
         "date": "2023-03-20"
+      }
+    ]
+  },
+  "Oakridge, Oregon, United States": {
+    "place": {
+      "name": "Oakridge",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "oakridge-oregon-united-states",
+      "pop": 3206,
+      "coord": [-122.4674601, 43.7449388]
+    },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district", "main street / special"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -65483,6 +66013,24 @@
         "status": "adopted",
         "scope": ["citywide", "transit-oriented"],
         "land": ["residential, low-density"]
+      }
+    ]
+  },
+  "Ontario, Oregon, United States": {
+    "place": {
+      "name": "Ontario",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "ontario-oregon-united-states",
+      "pop": 11645,
+      "coord": [-116.9629378, 44.0265525]
+    },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -69107,6 +69655,36 @@
         "status": "adopted",
         "scope": ["city center / business district"],
         "land": ["commercial", "residential, all uses"]
+      }
+    ]
+  },
+  "Phoenix, Oregon, United States": {
+    "place": {
+      "name": "Phoenix",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "phoenix-oregon-united-states",
+      "pop": 4475,
+      "coord": [-122.8153283, 42.2740364]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": [
+          "other",
+          "residential, all uses",
+          "residential, low-density",
+          "residential, multi-family"
+        ]
       }
     ]
   },
@@ -72788,6 +73366,38 @@
       }
     ]
   },
+  "Redmond, Oregon, United States": {
+    "place": {
+      "name": "Redmond",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "redmond-oregon-united-states",
+      "pop": 33274,
+      "coord": [-121.173921, 44.2726203]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["residential, multi-family"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses", "commercial"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["main street / special"],
+        "land": ["commercial", "other"]
+      }
+    ]
+  },
   "Redmond, Washington, United States": {
     "place": {
       "name": "Redmond",
@@ -72858,6 +73468,24 @@
       "coord": [-90.0026259, 43.5324809]
     },
     "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
+  "Reedsport, Oregon, United States": {
+    "place": {
+      "name": "Reedsport",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "reedsport-oregon-united-states",
+      "pop": 4310,
+      "coord": [-124.097083, 43.702093]
+    },
+    "reduce_min": [
       {
         "status": "adopted",
         "scope": ["city center / business district"],
@@ -79715,6 +80343,55 @@
       }
     ]
   },
+  "Sherwood, Oregon, United States": {
+    "place": {
+      "name": "Sherwood",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "sherwood-oregon-united-states",
+      "pop": 20450,
+      "coord": [-122.8403744, 45.3569315]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["commercial", "other"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["commercial"],
+        "date": "2024-08-06"
+      },
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": [
+          "all uses",
+          "commercial",
+          "industrial",
+          "medical",
+          "other",
+          "residential, multi-family"
+        ]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": [
+          "city center / business district",
+          "citywide",
+          "transit-oriented"
+        ],
+        "land": ["all uses", "other", "residential, all uses"]
+      }
+    ]
+  },
   "Sherwood, Wisconsin, United States": {
     "place": {
       "name": "Sherwood",
@@ -80413,6 +81090,31 @@
       "pop": 1150,
       "coord": [-87.120945, 45.187211]
     },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
+  "Sisters, Oregon, United States": {
+    "place": {
+      "name": "Sisters",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "sisters-oregon-united-states",
+      "pop": 3064,
+      "coord": [-121.549251, 44.290948]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
     "reduce_min": [
       {
         "status": "adopted",
@@ -84112,6 +84814,31 @@
         "status": "adopted",
         "scope": ["city center / business district", "main street / special"],
         "land": ["all uses", "commercial", "residential, low-density"]
+      }
+    ]
+  },
+  "Stayton, Oregon, United States": {
+    "place": {
+      "name": "Stayton",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "stayton-oregon-united-states",
+      "pop": 8244,
+      "coord": [-122.794533, 44.8006775]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["commercial", "other"]
       }
     ]
   },
@@ -87880,6 +88607,31 @@
       }
     ]
   },
+  "Toledo, Oregon, United States": {
+    "place": {
+      "name": "Toledo",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "toledo-oregon-united-states",
+      "pop": 3546,
+      "coord": [-123.938197, 44.621688]
+    },
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Tolland, Connecticut, United States": {
     "place": {
       "name": "Tolland",
@@ -89403,6 +90155,24 @@
       }
     ]
   },
+  "Umatilla, Oregon, United States": {
+    "place": {
+      "name": "Umatilla",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "umatilla-oregon-united-states",
+      "pop": 7363,
+      "coord": [-118.7671122, 45.6416995]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["commercial"]
+      }
+    ]
+  },
   "Underwood, Iowa, United States": {
     "place": {
       "name": "Underwood",
@@ -90330,6 +91100,24 @@
       "encoded": "Velva_ND",
       "pop": 1086,
       "coord": [-100.929317, 48.05612]
+    },
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
+      }
+    ]
+  },
+  "Veneta, Oregon, United States": {
+    "place": {
+      "name": "Veneta",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "veneta-oregon-united-states",
+      "pop": 5214,
+      "coord": [-123.351514, 44.0488807]
     },
     "rm_min": [
       {
@@ -91880,6 +92668,24 @@
         "scope": ["main street / special"],
         "land": ["residential, all uses"],
         "date": "2020-11-04"
+      }
+    ]
+  },
+  "Warrenton, Oregon, United States": {
+    "place": {
+      "name": "Warrenton",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "warrenton-oregon-united-states",
+      "pop": 6277,
+      "coord": [-123.923756, 46.165105]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district", "transit-oriented"],
+        "land": ["all uses"]
       }
     ]
   },
@@ -97012,6 +97818,31 @@
       }
     ]
   },
+  "Wood Village, Oregon, United States": {
+    "place": {
+      "name": "Wood Village",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "wood-village-oregon-united-states",
+      "pop": 4387,
+      "coord": [-122.4184703, 45.5370464]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["commercial", "other"]
+      }
+    ],
+    "reduce_min": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ]
+  },
   "Woodbine, New Jersey, United States": {
     "place": {
       "name": "Woodbine",
@@ -97088,6 +97919,31 @@
         "status": "adopted",
         "scope": ["citywide"],
         "land": ["medical", "other"]
+      }
+    ]
+  },
+  "Woodburn, Oregon, United States": {
+    "place": {
+      "name": "Woodburn",
+      "state": "Oregon",
+      "country": "United States",
+      "type": "city",
+      "encoded": "woodburn-oregon-united-states",
+      "pop": 26013,
+      "coord": [-122.8553725, 45.143731]
+    },
+    "add_max": [
+      {
+        "status": "adopted",
+        "scope": ["citywide"],
+        "land": ["all uses"]
+      }
+    ],
+    "rm_min": [
+      {
+        "status": "adopted",
+        "scope": ["city center / business district"],
+        "land": ["all uses"]
       }
     ]
   },
